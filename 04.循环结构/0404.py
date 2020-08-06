@@ -18,6 +18,6 @@ while True:
     else:
         print('恭喜你猜对了')
         break
-print('你总共踩了d%次' % counter)
+print('你总共踩了 %d 次' % counter)
 if counter > 7:
     print('你的智商不够')
